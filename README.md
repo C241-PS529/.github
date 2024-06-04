@@ -5,10 +5,10 @@
 <h2 align="center">Conservation, and Education for Lung Health through X-ray</h2>
 
 <h3 align="center">Bangkit Program Academy 2024 Batch 1</h3>
-<h4 align="center">Team ID		: C241-PS529</h4>
+<h4 align="center">Product-based Capstone Team ID		: C241-PS529</h4>
 
-#### Members
-| Name                  | ID            | Path               |  Universitas                        |  LinkedIN                           |
+#### Members : 
+| Name                  | ID            | Path               |  Universitas                        |  LinkedIn                           |
 | --------------------- |:-------------:|:------------------:|:-----------------------------------:|:-----------------------------------:|
 | Alif Putra Hermawan   | A214D4KY3506  | Mobile Development | Universitas Islam Indonesia         |                                     |
 | Moh. Izza Akhyar R.   | A345D4KY3725  | Mobile Development | Universitas 17 Agustus 1945 Surabaya|                                     |
