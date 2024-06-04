@@ -11,7 +11,7 @@
 | Name                  | ID            | Path               |  Universitas                        |  LinkedIn                           |
 | --------------------- |:-------------:|:------------------:|:-----------------------------------:|:-----------------------------------:|
 | Alif Putra Hermawan   | A214D4KY3506  | Mobile Development | Universitas Islam Indonesia         |                                     |
-| Moh. Izza Akhyar R.   | A345D4KY3725  | Mobile Development | Universitas 17 Agustus 1945 Surabaya|                                     |
+| Moh. Izza Akhyar Rafiussani   | A345D4KY3725  | Mobile Development | Universitas 17 Agustus 1945 Surabaya|                                     |
 | Ifan Gustian          | C393D4KY0880  | Cloud Computing    | Universitas Serang Raya             |                                     |
 | Puput Melati          | C393D4KX0095  | Cloud Computing    | Universitas Serang Raya             |                                     |
 | Rizki Ramadhani       | M312D4KY2578  | Machine Learning   | Universitas Sebelas Maret           |                                     |
