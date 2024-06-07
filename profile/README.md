@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/img/" />
+  <img align="center" width="400" src="/profile/Logo LungXcan.png/" />
 </p>
 <h1 align="center">LungXcan</h1>
 <h2 align="center">Conservation, and Education for Lung Health through X-ray</h2>
