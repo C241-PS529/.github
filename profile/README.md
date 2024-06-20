@@ -18,3 +18,14 @@
 | Arya Putra Nugraha    | M312D4KY1637  | Machine Learning   | Universitas Sebelas Maret           |                                     |
 | Muhammad Rifai        | M312D4KY2566  | Machine Learning   | Universitas Sebelas Maret           |                                     |
 
+### Documemtation
+![LungXcan](https://github.com/C241-PS529/.github/blob/main/profile/Green%20And%20White%20Illustrative%20Medical%20Healthcare%20Presentation.jpg)
+
+### Dataset Links of This Project :
+
+[Dataset](https://drive.google.com/drive/folders/150Y3QAT8_9WCpkeRhmYvNy2dsTqfICCk?usp=drive_link)
+
+### Deployment Link APK LungXcan
+
+Download Link APK LungXcan:<br>
+[LungXcanAPK (Google Drive)](https://drive.google.com/file/d/1g0Tx4z4OKqpfti7XXwk2PDyFRhOJ23bk/view?usp=sharing)
